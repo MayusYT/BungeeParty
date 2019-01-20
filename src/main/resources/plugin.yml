@@ -1,0 +1,4 @@
+name: Bungeeparty
+version: @version@
+main: net.snapecraft.bungeeparty.Bungeeparty
+description: A simple party plugin for BungeeCord
